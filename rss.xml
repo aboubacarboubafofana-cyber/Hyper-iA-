@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>BOuba-STOR - Le serveur hypersensible</title>
+    <link>https://bouba-stor.vercel.app/</link>
+    <description>La plateforme ultime et rapide pour vos vidéos et contenus.</description>
+    <language>fr</language>
+    <item>
+      <title>Comment entretenir ses vêtements pour qu'ils durent longtemps</title>
+      <link>https://bouba-stor.vercel.app/conseils.html</link>
+      <description>Découvrez nos astuces pour laver et sécher vos vêtements sans les abîmer.</description>
+      <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Les erreurs à éviter quand on choisit sa taille</title>
+      <link>https://bouba-stor.vercel.app/conseils.html</link>
+      <description>Prenez vos mesures et comparez avec le guide des tailles pour un look parfait.</description>
+      <pubDate>Wed, 28 Oct 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Comment bien choisir son Pull Chicago ?</title>
+      <link>https://bouba-stor.vercel.app/conseils.html</link>
+      <description>Le guide ultime pour choisir la bonne taille et la bonne couleur.</description>
+      <pubDate>Wed, 28 Oct 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+  <title>Découvrez la nouvelle collection BOuba STOR</title>
+  <link>https://bouba-stor.vercel.app/</link>
+  <description>Regardez notre dernière vidéo de présentation.</description>
+  <pubDate>Thu, 29 Oct 2026 10:00:00 GMT</pubDate>
+  <!-- LA LIGNE MAGIQUE POUR LA VIDÉO -->
+  <enclosure url="https://bouba-stor.vercel.app/videos/presentation.mp4" type="video/mp4" length="1000000" />
+</item>
+    <item>
+  <title>Test de publication Facebook</title>
+  <link>https://bouba-stor.vercel.app/</link>
+  <description>Ceci est un test pour voir si la publication fonctionne.</description>
+  <pubDate>Fri, 30 Oct 2026 17:25:00 GMT</pubDate>
+</item>
+  </channel>
+</rss>
